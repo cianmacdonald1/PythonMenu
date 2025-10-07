@@ -12,4 +12,16 @@ This program provides a simple menu system to teach students about Python code. 
    python menu.py
    ```
 
+If you're using VS Code, select the workspace virtual environment interpreter:
+
+```powershell
+C:/Users/summe/Desktop/Work/Coding/PythonMenu/.venv/Scripts/python.exe
+```
+
+Or run the script directly with that interpreter:
+
+```powershell
+C:/Users/summe/Desktop/Work/Coding/PythonMenu/.venv/Scripts/python.exe menu.py
+```
+
 No external dependencies are required.
