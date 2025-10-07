@@ -21,7 +21,7 @@ def explain_loops():
 def explain_functions():
     print("\nFunctions organize code. Example:")
     print("def greet(name):\n    print('Hello,', name)\ngreet('Alice')")
-    print("Output: Hello, Alice")
+    print("Output: Hey, Alice")
 
 def explain_lists():
     print("\nLists store multiple items. Example:")
